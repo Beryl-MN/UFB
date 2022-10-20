@@ -181,7 +181,7 @@ input {
                 </h1>
             </div>
             <div class="main">
-                <form  method="POST" action = "php/loginauth.php">
+                <form  method="POST" action = "php/UFB.php">
                     <span>
                     
                     <input type="text " placeholder="Enter ID" name="ID">
